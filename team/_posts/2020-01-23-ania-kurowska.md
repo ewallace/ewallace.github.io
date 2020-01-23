@@ -9,7 +9,7 @@ twitter:
 github: AnnaKurowska
 ORCID: 
 scholar: 
-image: /assets/images/team/default-member.png
+image: /assets/images/team/ania-kurowska.jpg
 alum: false
 ---
 
