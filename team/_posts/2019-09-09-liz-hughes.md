@@ -2,12 +2,12 @@
 layout: member
 title: "Liz Hughes"
 position: Daphne Jackson Fellow & PDRA
-nickname: LizHughes
+nickname: Liz
 handle: 
-email: ehughes@ed.ac.uk
-twitter: 
-github: 
-ORCID: 
+email: Liz.Hughes@ed.ac.uk
+twitter: @LizHughes21
+github: elizhughes
+ORCID: https://orcid.org/0000_0003_1573_9062
 scholar: 
 image: /assets/images/team/default-member.png
 alum: false
