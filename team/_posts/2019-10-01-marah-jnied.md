@@ -4,7 +4,7 @@ title: "Marah Jnied"
 position: PhD student
 nickname: Marah
 handle: 
-email: S1942032@sms.ed.ac.uk
+email: m.jnied@sms.ed.ac.uk
 twitter: 
 github: 
 ORCID: 
