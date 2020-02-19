@@ -19,12 +19,12 @@ Also see Issues on [the github page](https://github.com/ewallace/ewallace.github
 2. Clone your fork to your local computer (`git clone`)
 3. Create a new feature branch (`git branch feature-name`) and check it out (`git checkout feature-name`)
 4. Make your edits in a new feature branch, for example
-  - add image files, for example add a profile picture at `assets/images/team/john-smith-2019-pic.jpg`
-  - edit an existing page, for example change the image location in `team/_posts/2019-01-01-john-smith.md'
-  - create a new page, for example copy `news/_posts/2018-10-01-welcome-sam.md` to a new file `news/_posts/2019-01-01-welcome-john.md` and then edit.
+  - add image files, for example add a profile picture at `assets/images/team/vladimir-sanchez-2019-pic.jpg`
+  - edit an existing page, for example change the image location in `team/_posts/2019-01-01-vladimir-sanchez.md'
+  - create a new page, for example copy `news/_posts/2018-10-01-welcome-sam.md` to a new file `news/_posts/2019-01-01-welcome-vlad.md` and then edit.
 5. Commit your changes
-  - first add them, e.g. `git add assets/images/team/john-smith-2019-pic.jpg`
-  - commit with an informative message, e.g. `git commit -m "new john smith picture"`
+  - first add them, e.g. `git add assets/images/team/vladimir-sanchez-2019-pic.jpg`
+  - commit with an informative message, e.g. `git commit -m "new vladimir sanchez picture"`
 6. If possible, preview the website locally using `bundle exec jekyll serve` to create it, and then browse to [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
   - [install jekyll first](https://jekyllrb.com/docs/installation/)
   - fix any errors or broken links and commit fixes.

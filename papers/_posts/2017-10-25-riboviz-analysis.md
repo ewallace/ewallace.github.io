@@ -8,7 +8,7 @@ journal: "BMC Bioinformatics"
 volume: 18
 issue: 1
 pages: 461
-authors: "Carja O and Xing T and Wallace EWJ and Plotkin JB and Shah P"
+authors: "Carja O, Xing T, Wallace EWJ, Plotkin JB, and Shah P"
 image: /assets/images/papers/default-paper.svg
 fulltext: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1873-8
 pdf: https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-017-1873-8
@@ -21,9 +21,9 @@ figshare:
 doi: 10.1186/s12859-017-1873-8
 category: paper
 published: true
-peerreview: false
-review: true
-tags: [ribiviz, ribosome profiling, bioinformatics, high-throughput sequencing]
+peerreview: true
+review: false
+tags: [riboviz, ribosome profiling, bioinformatics, high-throughput sequencing]
 ---
 {% include JB/setup %}
 
