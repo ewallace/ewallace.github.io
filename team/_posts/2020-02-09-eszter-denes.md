@@ -1,3 +1,4 @@
+---
 layout: member
 title: "Eszter Denes"
 position: PhD student
