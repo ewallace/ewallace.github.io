@@ -2,11 +2,11 @@
 layout: member
 title: "Rachael Murray"
 position: PhD student 
-nickname: 
-handle: 
+nickname: Rachael
+handle: rmm
 email: R.M.Murray-2@sms.ed.ac.uk
 twitter: 
-github: 
+github: RachaelMurray 
 ORCID: 
 scholar: 
 image: /assets/images/team/rachael-murray-2020-pic.jpg
