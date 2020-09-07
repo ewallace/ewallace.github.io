@@ -139,6 +139,17 @@ with gratitude.
 			</div>
 			<div class="bigspacer"></div>			
 			{% endif %}
+			{% if page.zenodo_doi %}
+			<div class="smallhead subtle">
+				Data
+			</div>
+			<div class="pad-left note">
+				<div class="smallspacer"></div>
+				<i class="fa fa-database fa-fw"></i>
+				<a class="off" href="http://doi.org/{{ page.zenodo_doi }}">Zenodo</a>
+			</div>
+			<div class="bigspacer"></div>			
+			{% endif %}
 			{% if page.altmetric_id %}
 			<div class="smallhead subtle">
 				Altmetrics
