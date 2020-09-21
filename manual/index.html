@@ -6,47 +6,75 @@ group: navigation
 navorder: 5
 ---
 {% include JB/setup %}
-<div class="bigspacer"></div> 
-{% assign memberindex = 0 %}
-{% for paper in site.categories.manual %}
-  {% assign memberindex = memberindex | plus: 1 %}
-  {% assign colindex = memberindex | modulo: 3 %}
-  {% if colindex == 1 %} <!-- opening of a new row -->
-  <div class="row">
-  {% endif %}
 
-  <div class="col-md-4 paperbox">
-    {% if paper.embargo %}
-    <div class="media">
-         <img width=100 class="media-object pull-right" src="{{ paper.image }}"/>
-        <div class="media-body">
-          <div class="smallhead media-heading">
-          {{ paper.title }}
-          </div>
-          <p class="note">{{ paper.shortref }}</p>
-        </div>
-    </div>
-    {% else %}
-   <div class="media">
-        <a class="pull-right" href="{{ paper.url }}">
-          <img width=100 class="media-object" src="{{ paper.image }}">
-        </a>
-      <div class="media-body">
-          <div class="smallhead media-heading">
-          <a href="{{ paper.url }}" class="off">{{ paper.title }}</a>
-          </div>
-          <p class="note">{{ paper.shortref }}</p>
-      </div>
-    </div>
-    {% endif %}
-  </div>
-  {% if colindex == 0 %} <!-- closing a row -->
-  </div><div class="bigspacer"></div>
-  {% endif %}
+<div class="pager">
+  
+	{% if paginator.previous_page %}
+		{% if paginator.previous_page == 1 %}
+		<a class="prev" href="/{{ page.category }}/">
+			<i class="fa fa-chevron-left fa-lg"></i>
+		</a>
+		{% else %}
+		<a class="prev" href="/{{ page.category }}/page{{ paginator.previous_page }}">
+			<i class="fa fa-chevron-left fa-lg"></i>
+		</a>
+		{% endif %}  		
+	{% endif %}  
+  
+	{% if paginator.next_page %}  
+	<a class="next" href="/{{ page.category }}/page{{ paginator.next_page }}">
+		<i class="fa fa-chevron-right fa-lg"></i>
+	</a>	
+	{% endif %}  	
+    
+</div>
+
+<h2> Lab manual </h2>
+
+<p> Here is our lab manual: the essential points to know about working in the Wallace lab. </p>
+
+(September 2020: under construction)
+
+<hr>
+
+{% for manualentry in site.categories.manual %}
+	
+		<div class="bigspacer"></div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="smallhead">
+					<a href="{{ manualentry.url }}" class="off">{{ manualentry.title }}</a>
+				</div>
+				<div class="smallnote">
+					{%comment%}{{ manualentry.date | date_to_string }}{% endcomment %}
+					{% if author %}
+					by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
+					{% endif %}				
+				</div>
+				<div class="subtle smallnote">
+					tags:
+					{% for tag in manualentry.tags %}
+						{{ tag }}{% if tag != manualentry.tags.last %},{% endif %}
+					{% endfor %}
+				</div>
+
+			</div>
+		</div>		
+
 {% endfor %}
-{% if colindex != 0 %} <!-- close last open row -->
-</div><div class="bigspacer"></div>
-{% endif %}
+
+{% comment %}
+
+<div class="bigspacer"></div>	
+<div class="row">
+	<div class="col-md-12 text-center">
+		<a class="off" href="/{{ page.category }}/archive/">
+			<div class="smallhead">Archive</div>
+			<i class="text-gray fa fa-chevron-circle-down fa-2x"></i>
+		</a>
+	</div>
+</div>
+{% endcomment %}
 
 
 <div class="bigspacer"></div>
