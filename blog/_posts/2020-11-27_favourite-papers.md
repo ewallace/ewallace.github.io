@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Lab Favourite Papers"
-author: "Flic Anderson"
+author: "Felicity Anderson"
 author_handle: "fa"
 image: /assets/images/news/default-news.png
 category: blog
