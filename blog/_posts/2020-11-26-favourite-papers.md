@@ -25,3 +25,9 @@ This blogpost has been created as part of a lab workshop on using [git version c
 ["Defining the essential function of yeast Hsf1 reveals a compact transcriptional program for maintaining eukaryotic proteostasis"](https://dx.doi.org/10.1016%2Fj.molcel.2016.05.014) is a neat paper that takes a hard problem and makes it seem easy. Since the 1980s, it was known that **Heat shock factor 1** is an essential gene required for transcription of heat shock protein genes. But it wasn't known why it was essential - which regulatory targets of Hsf1 are actually relied on by the cell? My then-officemate Eric Solís started working on this, and I had little idea what he was so excited about at the start. His work grew into this elegant story that uses genetics, ChIP-seq, RNA-seq, etc, to dissect Hsf1's function away from everything else going on. This paper is a great model of how to take a "pleiotropic" regulatory factor and find out its specific regulatory functions.
 
 Some of my lovely Chicago colleagues wrote a perspective on this work - [Heat Shock Factor 1: From Fire Chief to Crowd-Control Specialist](http://dx.doi.org/10.1016/j.molcel.2016.06.026).
+
+*Eszter Denes:*
+
+[Candida glabrata Drug:H+ Antiporter CgQdr2 Confers Imidazole Drug Resistance, Being Activated by Transcription Factor CgPdr1"] (https://aac.asm.org/content/57/7/3159) describes many experiments that can be conducted in order to show that a particular gene causes antifungal resistance in fungi. What is more, the authors also tested which transcription factor controls this gene’s expression levels.
+As my PhD project is about antifungal adaptation, I find this paper very informative and inspiring.
+
