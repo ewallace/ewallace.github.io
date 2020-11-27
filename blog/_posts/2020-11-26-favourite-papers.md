@@ -11,6 +11,12 @@ tags: [papers]
 
 This blogpost has been created as part of a lab workshop on using [git version control](https://en.wikipedia.org/wiki/Git) and has been a great excuse to share and discuss interesting papers that have influenced our work!
 
+### 
+
+*Marah Jnied:*
+
+["A Network of Cytosolic Factors Targets SRP-Independent Proteins to the Endoplasmic Reticulum"](https://www.sciencedirect.com/science/article/pii/S0092867413001517) is a paper that highlights the importance and complexity of SRP-independent translocation. In this paper, Ast et al employ a combination of hydropathy-based analysis and microscopy to identify a determinant for Endoplasmic Reticulum targeting, and to reveal a network of cytosolic proteins that facilitate SRP-independent targeting and translocation. This paper inspired an exciting set of experiments for my PhD project concerning the RNA binding protein Ssd1.
+
 ### Bioinformatics Papers
 
 *Flic Anderson:*
