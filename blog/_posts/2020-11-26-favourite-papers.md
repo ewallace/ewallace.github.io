@@ -11,7 +11,7 @@ tags: [papers]
 
 This blogpost has been created as part of a lab workshop on using [git version control](https://en.wikipedia.org/wiki/Git) and has been a great excuse to share and discuss interesting papers that have influenced our work!
 
-### 
+### High Throughput Genetics and Cell Biology
 
 *Marah Jnied:*
 
