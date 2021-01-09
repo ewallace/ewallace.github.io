@@ -11,11 +11,13 @@ tags: [labmanual, newstart]
 # Guidelines for storing and organizing data in the Wallace lab
 
 All data must be securely stored and backed up, usually to the lab's datastore space. 
+
 Data must also be findable, organized, and described, usually with a `README.txt` or `README.md` file that describes the contents of each directory.
 
 
 # Guidelines for organising glycerol stock strains in datastore
-Information on all Fungal and E.coli strains available in the lab are recorded in an Excel spreadsheet called “ Edward Lab Database” within the “Strains_and_Associated_Info” Folder in datastore: wallace_rna/admin/Inventories. This spreadsheet is divided up into separate sheets for “Yeast” (ie., S.cerevisiae) , “Cryptococcus” and “Bacteria” (ie., E.coli stocks of plasmids). When you make new strains, full details need to be entered into this spreadsheet.
+
+Information on all Fungal and E.coli strains available in the lab are recorded in an Excel spreadsheet called `Edward Lab Database` within the "Strains_and_Associated_Info" Folder in datastore: `wallace_rna/admin/Inventories`. This spreadsheet is divided up into separate sheets for “Yeast” (ie., S.cerevisiae) , “Cryptococcus” and “Bacteria” (ie., E.coli stocks of plasmids). When you make new strains, full details need to be entered into this spreadsheet.
 
 The “Strains_and_Associated_Info” folder also includes additional folders and files:
 
