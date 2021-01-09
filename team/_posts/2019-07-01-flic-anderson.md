@@ -3,7 +3,7 @@ layout: member
 title: "Felicity Anderson"
 position: Research Assistant in Bioinformatics
 nickname: Flic
-handle:
+handle: "fa"
 email: Felicity.Anderson@ed.ac.uk
 twitter: Flic_Anderson
 github: FlicAnderson
