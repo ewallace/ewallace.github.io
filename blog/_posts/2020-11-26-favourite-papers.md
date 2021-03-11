@@ -37,3 +37,11 @@ Some of my lovely Chicago colleagues wrote a perspective on this work - ["Heat S
 ["Candida glabrata Drug:H+ Antiporter CgQdr2 Confers Imidazole Drug Resistance, Being Activated by Transcription Factor CgPdr1"](https://aac.asm.org/content/57/7/3159) describes many experiments that can be conducted in order to show that a particular gene causes antifungal resistance in fungi. What is more, the authors also tested which transcription factor controls this gene’s expression levels.
 As my PhD project is about antifungal adaptation, I find this paper very informative and inspiring.
 
+
+### Translational Control Papers
+
+*Rosey Bayne:*
+
+["Translation factor mRNA granules direct protein synthetic capacity to regions of polarized growth"](https://doi.org/10.1083/jcb.201704019) is a paper from Mark Ashe’s Lab which shows that, in contrast to P-bodies and stress granules, a subset of RNP granules harbour translated mRNAs under active growth conditions and that these granules are inherited by developing daughter cells, where protein synthesis is most heavily required. I work on Ssd1, an RNA binding protein which translationally represses the cell wall-associated mRNAs it binds, until it is phosphorylated by Cbk1 kinase at or near the bud neck where it is under tight cell-cycle control. This paper suggests that once the Ssd1-associated mRNAs are released from repression they should have access to such translation factories and allow expansion of the bud.
+
+

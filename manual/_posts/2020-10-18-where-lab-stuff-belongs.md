@@ -57,26 +57,41 @@ For many mutant strains, e.g. CRISPR mutants, it is worth freezing more than one
 For yeasts (*Saccharomyces*, *Cryptococcus*, *Candida*, etc.), you need to systematically record full details of the strain.
 
 * Name - id of strain, e.g. the second strain of yeast made by Rosey Bayne is `yRB002`.
+* Alias - short descriptive name for strain, (*eg.* `PAB1-Clover`).
 * Genotype - systematic description of yeast genotype, as described in [Getting Started With Yeast, section on Genetic Nomenclature](https://www.sciencedirect.com/science/article/pii/S007668790250954X).
+* Relevant Genotype - the key genes or mutations that the strain is used for.
+* Comments - useful information about the strain and any other relevant info (you can get an idea of what is required by looking at existing records).
 * Parent Strain - the id of strain that was the parent of the transformed strain. This should be identical to the id in the lab database. For external strains, this may be found in the publication reference; for some strains it may not be relevant.
 * Source - your name if you made it or who/where you got it from.
 * Growth Medium - including antibiotics where relevant.
-* date entered
-* location details
+* Date - date entered to database
+* Box - Box number where strain stored
+* Position in Box - location of that tube
 * Reference - to publication, if relevant; including doi.
-* Notes - any other relevant info (you can get an idea of what is required by looking at existing records).
+* Links - links to relevant Snapgene File(s) in datastore.
 
-TODO: check this against the actual file.
+
+
 
 ### Examples
 
-TODO: give a couple of examples, and links ot nomenclature.
+TODO: give a couple of examples, and links to nomenclature.
 
 
 ## Plasmid information to record in lab database
 
-TODO: List fields for plasmids inventory.
-This should include a link to the file with the plasmid map.
+* Name - id of plasmid
+* Alias - plasmid  description
+* Comments - information about the strain - (*eg.* `this strain is dam+ so plasmid isolated from it will not cut with BclI. You need to transform the plasmid into a dam- strain before isolating plasmid to clone gRNAs but dam- strains are unstable so not suited to making frozen stocks)
+* Background - Host strain (*eg.* ccdb, TOP10, NEB5alpha, *etc.*)
+* Source - your name if you made it or who/where you got it from.
+* Media - growth medium and relevant antibiotic fto maintain selection.
+* Date - date entered to database.
+* Box- Box number where strain stored.
+* Position - location of that tube in the box.
+* Link to plasmid map - link to plasmid map/ Snapgene file in datastore
+
+
 
 
 Please refer to ["Where data belongs" section of lab manual](where-data-belongs) for more information on strain organisation in datastore.
