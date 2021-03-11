@@ -33,15 +33,18 @@ After an item has been ordered, it will be highlighted in red on the inventory s
 
 For DNA and plasmids, everyone has space in our -20ºC freezer in room 2.19 to store working stocks for daily use. We also have a lab fridge in room 2.19, where bacterial/yeast plates can be stored in the short-term whilst experiments are ongoing. 
 
+### The importance of long-term stocks
+
 It is essential to have long-term stocks of all plasmids (stored in bacteria/yeast), and all edited _S. cerevisiae_ and _C. neoformans_ strains. 
+It is essential to have a backup copy in case catastrophe strikes - a failed freezer or a building fire.
 It is also essential to track the data about strains in a consistent format.
-This is essential, because future you, others in the lab, and collaborators, need to be able to rely on the strains and build on your results.
+This is all essential, because future you, others in the lab, and collaborators, need to be able to rely on the strains and build on your results.
 For strains that make it to a publication, those strains need to be available to send to other researchers for years into the future.
 
 **Please ask on the #lab channel on slack if there is any doubt at all about any of this.**
 
 
-## Guidelines for making and storing glycerol stocks
+### Guidelines for making and storing glycerol stocks
 
 Glycerol stocks at -80ºC store yeast and bacteria indefinitely.
 
@@ -52,13 +55,16 @@ For many mutant strains, e.g. CRISPR mutants, it is worth freezing more than one
 
 [A printable version of this protocol is on protocols.io](https://www.protocols.io/view/storing-glycerol-stocks-bpkwmkxe).
 
+TODO: make plans for backup box of strain and plasmid collection to be stored in different building.
+
+
 ## Yeast strain information to record in lab database
 
 For yeasts (*Saccharomyces*, *Cryptococcus*, *Candida*, etc.), you need to systematically record full details of the strain.
 
 * Name - id of strain, e.g. the second strain of yeast made by Rosey Bayne is `yRB002`.
 * Alias - short descriptive name for strain, (*eg.* `PAB1-Clover`).
-* Genotype - systematic description of yeast genotype, as described in [Getting Started With Yeast, section on Genetic Nomenclature](https://www.sciencedirect.com/science/article/pii/S007668790250954X).
+* Genotype - systematic description of yeast genotype, as described in [table of yeast genetic nomenclature], taken from [Getting Started With Yeast, Sherman 2002].
 * Relevant Genotype - the key genes or mutations that the strain is used for.
 * Comments - useful information about the strain and any other relevant info (you can get an idea of what is required by looking at existing records).
 * Parent Strain - the id of strain that was the parent of the transformed strain. This should be identical to the id in the lab database. For external strains, this may be found in the publication reference; for some strains it may not be relevant.
@@ -68,30 +74,34 @@ For yeasts (*Saccharomyces*, *Cryptococcus*, *Candida*, etc.), you need to syste
 * Box - Box number where strain stored
 * Position in Box - location of that tube
 * Reference - to publication, if relevant; including doi.
-* Links - links to relevant Snapgene File(s) in datastore.
+* Links - links to relevant files in datastore. This would usually be a snapgene `.dna` file describing the set of transformations made to the locus of interest.
 
 
 
 
 ### Examples
 
-TODO: give a couple of examples, and links to nomenclature.
+TODO: give a couple of full-record examples.
 
 
 ## Plasmid information to record in lab database
 
+Most plasmids are stored long-term in *E. coli* bacterial strains.
+
 * Name - id of plasmid
 * Alias - plasmid  description
-* Comments - information about the strain - (*eg.* `this strain is dam+ so plasmid isolated from it will not cut with BclI. You need to transform the plasmid into a dam- strain before isolating plasmid to clone gRNAs but dam- strains are unstable so not suited to making frozen stocks)
-* Background - Host strain (*eg.* ccdb, TOP10, NEB5alpha, *etc.*)
+* Comments - information about the strain - (*eg.* "this strain is dam+ so plasmid isolated from it will not cut with BclI. You need to transform the plasmid into a dam- strain before isolating plasmid to clone gRNAs but dam- strains are unstable so not suited to making frozen stocks"")
+* Host strain - the bacterial strain hosting the plasmid - (*eg.* ccdb, TOP10, NEB5alpha, *etc.*)
 * Source - your name if you made it or who/where you got it from.
 * Media - growth medium and relevant antibiotic fto maintain selection.
 * Date - date entered to database.
 * Box- Box number where strain stored.
 * Position - location of that tube in the box.
-* Link to plasmid map - link to plasmid map/ Snapgene file in datastore
+* Link to plasmid map - link to plasmid map in datastore, in either snapgene `.dna` format or genbank `.gb` format. Ideally the filename of this plasmid map should begin with the plasmid name, such as `pEW001_my_first_plasmid.dna`
 
 
+Please refer to ["Where data belongs" section of lab manual](where-data-belongs) for more information on file organization on datastore.
 
 
-Please refer to ["Where data belongs" section of lab manual](where-data-belongs) for more information on strain organisation in datastore.
+[Getting Started With Yeast, Sherman 2002]: https://doi.org/10.1016/S0076-6879(02)50954-X 
+[table of yeast genetic nomenclature]: /assets/images/manual/Sherman2002TableII_YeastGeneticNomenclature.png
