@@ -8,18 +8,20 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings
+# Meetings - *updated April 2021*
 
 This page covers basic expectations for meetings in the lab:
 
 * Lab meetings for everyone (weekly)
-* Subgroup meetings (fortnightly, new for 2021)
+* Subgroup meetings (fortnightly)
 * 1-1 meetings (fortnightly)
 * Socials (whenever we feel like it)
 
-Meetings will be listed on the lab (google) calendar. Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in.
+Meetings will be listed on the lab (google) calendar. 
+Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in. 
+We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
-For now, these meetings usually happen over zoom. 
+For now, these meetings usually happen over zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
 When it's safe, we hope to move back to in-person meetings.
 
 
@@ -31,7 +33,7 @@ Lab meetings are a mutually respectful and supportive environment.
 Lab meetings can take various formats:
 
 * Research update, led by a single lab member - this is most common
-* One-slide meeting -  everyone presents one slide on their recent work.
+* One-slide meeting -  everyone presents one slide on their recent work
 * Journal club - one or more lab members present a relevant paper
 * Guest presentation from someone outside the lab
 * Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting
@@ -39,19 +41,17 @@ Lab meetings can take various formats:
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
 
-## Timing - *updated January 2021*
+## Timing - *updated April 2021*
 
-Lab meetings are **15:30-17:00 Mondays** over zoom; see calendar invite for the zoom link.
-
-We have historically tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half.
-So our new approach is:
+Lab meetings are **15:30-17:00 Mondays** over zoom.
 
 * 15:00 meeting opens, drift in with coffee/tea, chat and discuss lab business
 * 15:30 prompt, presentation starts
 * 16:45 latest, show the last slide
-* 17:00 everyone should leave
+* Discuss any other lab business
+* 17:00, everyone should leave
 
-We will discuss how well this is working after a few weeks.
+We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to be working well.
 
 
 ## Giving a Research update lab meeting
@@ -100,22 +100,25 @@ Some resources on giving good presentations and lab meetings:
 
 # Subgroup meetings (fortnightly)
 
-As of January 2021, we will try new "subgroup meetings" to help people working on related projects to talk regularly about them.
+Since January 2021, we are having regular "subgroup meetings" to help people working on related projects to talk regularly about them.
 
-Here is a suggestion as to how we could run them:
+Mostly, we have been running these as a journal club:
 
-* Everyone presents one slide on their recent work, taking no more than 5 minutes each (timed).
-* Then we "journal club" a paper relevant to the subgroup, that everyone should already have read. Presentation of this can be shared around the group. We don't need perfect presentations, just enough for a good discussion.
+* We choose a paper relevant to the subgroup, that everyone should read before the meeting. Come prepared to talk about what you learned from the paper and any questions you have.
+* Presentation of the is usually led by one person, and/or can be shared around the group. We don't need perfect presentations, just enough for a good discussion.
+* The presenter can showcase their own data/project or other related information in the light of the main journal club paper. These have been some of the most useful subgroup meeting moments.
 * Everyone suggests papers for next subgroup meeting, and we decide on one of them. It is ok to suggest a paper that you have already read.
 * PI aims to attend all subgroup meetings, however they should continue even if PI can't attend.
 * Others in lab can attend subgroups as "guests" if they're interested in the paper.
 
-Suggested subgroups (January 2021) are:
+Sometimes we may instead have a different format, for example discussing a manuscript draft or designing a tricky experiment. We aim to announce the subgroup agenda 2 weeks in advance in any case.
 
-* Fungal pathogens - Laura, Liz, Rachael, also Thom.
-* Ssd1 and so on - Rosey, Marah, Louis, also Paddy.
-* 3'UTRs - Sam, Weronika, also Aphena.
-* Ribosome profiling has a separate meeting, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
+Subgroups (April 2021) are:
+
+* RNA-binding proteins, Ssd1 and so on - Rosey, Marah, Louis, also Paddy and Yuxuan. 10am alternate Mondays (weeks 1+3 in lab rota).
+* 3'UTRs - Sam, Weronika. 10am alternate Tuesdays (weeks 1+3 in lab rota).
+* Fungal pathogens - Laura, Liz, Rachael. 10am alternate Mondays (weeks 2+4 in lab rota)
+* Ribosome profiling has a separate meeting on Wednesday afternoons, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
 
 We will find times for these that work for all subgroup members, respecting lab shift patterns.
 
@@ -125,7 +128,7 @@ We will find times for these that work for all subgroup members, respecting lab 
 Most lab members have 1-1 meetings with the PI, fortnightly, that last 55 minutes.
 These guidelines are intended to be "as simple as possible" to make these meetings most pleasant and productive.
 
-* The lab member takes notes and sends a summary to PI later on the day of the 1-1-meeting. Notes should begin "1-1 meeting notes [date]". (By email or slack? To discuss)
+* The lab member takes notes and sends a summary to PI later on the day of the 1-1 meeting. Notes should begin "1-1 meeting notes [date]". (By email or slack? To discuss)
 * Meeting starts by discussing progress on agreed priorities and action points from previous meeting.
 * Meeting includes reviewing lab notebook, or other data/analysis/writing/slides, as appropriate.
 * For wet lab workers, the lab notebook (RSpace) should be updated before the 1-1 meeting.
@@ -149,5 +152,5 @@ Guidelines:
 * Organize a lab social when you feel like it. 
 * Be inclusive. 
 
-We also have a regular lab coffee 10:30am Fridays.
+We also have a semi-regular lab coffee 10:30am Fridays.
 Zoom link is on the lab calendar.
