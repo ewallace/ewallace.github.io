@@ -85,6 +85,7 @@ To inform the judgment call of what to include and what not:
 - *Plasmid minipreps*, entry should include the name and batch number of the kit you used, and an electronic copy of the nanodrop/DeNovix quantification. You don't need to repeat the entire published protocol.
 - *RNA/protein extraction*, entry should include a link to the protocol and describe any modifications you made. All reagents, e.g. buffers, should be described unambiguously. Ideally you would say which batch of buffer (e.g. prep date) you used, or for commercial reagents the batch number.
 - *Bacterial or yeast transformations*, since it is so easy to take a photo of the plate of transformants and add it to your lab notebook, please do that.
+- *Photos* of tubes, equipment, pipetting layouts, etc - it's also easy to take a photo and shove it in your notebook, why not do that. These photos help address the situation where you leave the lab and think "oh goodness, did I have the samples in the right order?"
 - *PCR*, record the program, enzyme, buffer (both with batch number), oligos, template source and concentration. Everything you need to reproduce it. If you follow a standard protocol link to that, and note only the modifications that you make.
 - *Strange observations* should be included, for example "a very hot day in lab and my experiment unexpectedly failed, maybe it's the temperature?"
 - Please add more examples?
