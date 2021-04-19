@@ -64,7 +64,7 @@ It is helpful to consider the [FAIR principles for scientific data management](h
 - *Findable:* The first step in (re)using data and protocols is to find them. Your lab notebook entries should be findable by "metadata", for example project, protocol, strain or oligo identifier, or date of creation.
 - *Accessible:* Once the user finds the required data you should be able to access it. So if the lab notebook entry mentions a dataset elsewhere (e.g. datastore, lab notebook page), link to it with accession information.
 - *Interoperable:* The data usually need to be integrated with other data, and to interoperate with applications or workflows for analysis, storage, and processing. Use standard file formats.
-- *Reusable:* The ultimate goal is to optimise the reuse of data, protocols, and methods. You and others should be able ot re-use what you have done, to a high standard, and efficiently.
+- *Reusable:* The ultimate goal is to optimise the reuse of data, protocols, and methods. You and others should be able to reuse what you have done, to a high standard, and efficiently.
 
 
 ## Examples of what to include and what not
@@ -79,14 +79,16 @@ To inform the judgment call of what to include and what not:
 - *Say why* you are doing the experiment - briefly state the aim of the experiment and connect/link it to the larger project. You might have a project aims page you can link to, or a "project guide" that gets 
 - *Conclude* what you learned and what you need to do next, however briefly.
 - *Things don't have to work,* include data from all experiments, "successful" or otherwise. 
-- *Reusing strains* you should give the strain ID number (e.g. `yVS042`, see [strain descriptions](where-lab-stuff-belongs)). If it's possible or sensible, link to the page that generated/describes the strain. You don't need to describe the strain in detail every time you use it. There may be multiple strains where your favourite gene is tagged with green fluorescent protein, `YFG_GFP` isn't enough, give the strain ID number.
-- *Oligos* include the oligo name/ID and sequence the first time you use it, with the certificate of synthesis. For IDT oligos the certificate is available if the person who ordered it logs in to IDT through sciquest punch-out; it's best to add the whole oligo order to your lab notebook when it arrives. It can be helpful to give each oligo an unambiguous ID number, e.g. 
+- *Reusing strains* you should give the strain ID number (e.g. `yVS042`, see [strain descriptions](where-lab-stuff-belongs)), along with a brief description at the top of the entry, e.g. "Pab1-GFP Hsp104-mCherry in BY4741 background". If it's possible or sensible, link to the page that generated/describes the strain. You don't need to describe the strain in detail every time you use it. There may be multiple strains where your favourite gene is tagged with green fluorescent protein, `YFG_GFP` isn't enough, give the strain ID number.
+- *Oligos* include the oligo name/ID and sequence the first time you use it, with the certificate of synthesis. For IDT oligos the certificate is available if the person who ordered it logs in to IDT through sciquest punch-out; it's best to add the whole oligo order info to your lab notebook when it arrives. It can be helpful to give each oligo an unambiguous ID number, e.g. `oVS1067`, which is easier to refer to than "YFG1-verifydeletion-set3-rev".
 - *Designs* for plasmids, inserts, cloning, etc, should be included in the relevant notebook entries. Usually the design would be in snapgene, genbank, or fasta format, 
 - *Plasmid minipreps*, entry should include the name and batch number of the kit you used, and an electronic copy of the nanodrop/DeNovix quantification. You don't need to repeat the entire published protocol.
 - *RNA/protein extraction*, entry should include a link to the protocol and describe any modifications you made. All reagents, e.g. buffers, should be described unambiguously. Ideally you would say which batch of buffer (e.g. prep date) you used, or for commercial reagents the batch number.
 - *Bacterial or yeast transformations*, since it is so easy to take a photo of the plate of transformants and add it to your lab notebook, please do that.
-- *PCR*, record the program, enzyme, buffer (both with batch number), oligos, template source and concentration. Everything you need to reproduce it.
+- *PCR*, record the program, enzyme, buffer (both with batch number), oligos, template source and concentration. Everything you need to reproduce it. If you follow a standard protocol link to that, and note only the modifications that you make.
 - *Strange observations* should be included, for example "a very hot day in lab and my experiment unexpectedly failed, maybe it's the temperature?"
+- Please add more examples?
+
 
 ## Raw unedited data must be included
 
@@ -150,7 +152,7 @@ If someone wants to repeat one of your experiments, you should be able to share 
 We have work to do to making clearer instructions/guidelines for the use of RSpace:
 - set up templates for common lab book entries.
 - including, set a template for the annual lab book calendar.
-- use tags to 
+- use tags to connect experiments with related features (protocols, reagents, strains, etc) 
 - explain integration with protocols.io
 - work on integration with github
 - policy for when to sign entries?
@@ -158,6 +160,24 @@ We have work to do to making clearer instructions/guidelines for the use of RSpa
 Please ask Edward or Rosey for help on these issues.
 
 To be continued...
+
+## Have two tables of contents, one by date and one by project
+
+We have found it seriously helpful to have one table of contents of activity by date, and another by project. That way you can search either by when it happened or by what it connects to, helping with the principle "Place your work in the context of larger goals and projects.". 
+
+The table of contents by date works best if you (needs template):
+- have a new entry for each calendar year e.g. called "Experiment Diary 2021".
+- format as a table including hyperlinks to the individual notebook entries, so you can click straight through.
+- have about one page per week in the lab, or more broken up if that's more helpful
+- update frequently (e.g. weekly) so it's not all backed up.
+
+It is also helpful to have a table of contents by project, or for each project
+- summarizing the overall aims of the project.
+- breaking down into smaller aims, linked to the individual notebook pages working on those aims.
+- include progress updates
+- include dead ends and other things that were tried and learned from related to the project.
+
+These are guidelines - take a look at how others organize their lab notebook, and find something that works for you.
 
 
 # Principles for dry / computational lab notebooks
