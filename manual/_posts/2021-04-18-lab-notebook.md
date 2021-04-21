@@ -59,7 +59,7 @@ Good habits help.
 For example, you can set up templates for entries for standard experiments that you do.
 You can set aside regular time to update the notebook, including with other lab members to create some accountability.
 
-It is helpful to consider the [FAIR principles for scientific data management](https://www.go-fair.org/fair-principles/), which also apply to protocols, analysis and methods.
+It is helpful to consider the [FAIR principles for scientific data management](https://www.go-fair.org/fair-principles/), which also apply to protocols, analysis, and methods.
 
 - *Findable:* The first step in (re)using data and protocols is to find them. Your lab notebook entries should be findable by "metadata", for example project, protocol, strain or oligo identifier, or date of creation.
 - *Accessible:* Once the user finds the required data you should be able to access it. So if the lab notebook entry mentions a dataset elsewhere (e.g. datastore, lab notebook page), link to it with accession information.
@@ -75,8 +75,8 @@ Information doesn't need to be repeated in multiple notebook entries, because yo
 To inform the judgment call of what to include and what not:
 
 - *Handwritten notes* are fine to include, just take a photo of it and include in with enough typed searchable metadata that you can find it again.
-- *Bullet points* are fine, you do not need to write in paragraphs. It's more important to have a terse account that happens quickly than beautiful prose.
-- *Say why* you are doing the experiment - briefly state the aim of the experiment and connect/link it to the larger project. You might have a project aims page you can link to, or a "project guide" that gets 
+- *Bullet points* are fine, you do not need to write in paragraphs. It's more important to have a terse account that is written quickly than beautiful prose.
+- *Say why* you are doing the experiment - briefly state the aim of the experiment and connect/link it to the larger project. You might have a project or subproject aims page you can link to, or a "parts guide" for a group of related strains/plasmids that gets updated as specific parts are made and verified.
 - *Conclude* what you learned and what you need to do next, however briefly.
 - *Things don't have to work,* include data from all experiments, "successful" or otherwise. 
 - *Reusing strains* you should give the strain ID number (e.g. `yVS042`, see [strain descriptions](where-lab-stuff-belongs)), along with a brief description at the top of the entry, e.g. "Pab1-GFP Hsp104-mCherry in BY4741 background". If it's possible or sensible, link to the page that generated/describes the strain. You don't need to describe the strain in detail every time you use it. There may be multiple strains where your favourite gene is tagged with green fluorescent protein, `YFG_GFP` isn't enough, give the strain ID number.
@@ -86,7 +86,8 @@ To inform the judgment call of what to include and what not:
 - *RNA/protein extraction*, entry should include a link to the protocol and describe any modifications you made. All reagents, e.g. buffers, should be described unambiguously. Ideally you would say which batch of buffer (e.g. prep date) you used, or for commercial reagents the batch number.
 - *Bacterial or yeast transformations*, since it is so easy to take a photo of the plate of transformants and add it to your lab notebook, please do that.
 - *Photos* of tubes, equipment, pipetting layouts, etc - it's also easy to take a photo and shove it in your notebook, why not do that. These photos help address the situation where you leave the lab and think "oh goodness, did I have the samples in the right order?"
-- *PCR*, record the program, enzyme, buffer (both with batch number), oligos, template source and concentration. Everything you need to reproduce it. If you follow a standard protocol link to that, and note only the modifications that you make.
+- *PCR*, record the program, enzyme, buffer (both with manufacturer, part number, batch number), oligos, template source and concentration. Everything you need to reproduce it. If you follow a standard protocol link to that, and note only the modifications that you make.
+- *Reagents should be recorded precisely including manufacturer's part number*, and ideally batch number. Different manufacturers make enzymes (e.g. EcoRI, BsaI) with different capabilities, shipping buffers, etc. PEG comes in many varieties. There can be big batch-to-batch variation in enzymes, bovine serum, etc. Part numbers help reproducibility, while batch numbers help troubleshooting if one batch behaves differently from another. This is not an invitation to overkill: for example you could not the part/batch number in a "parts list" at the beginning of a week of experiments, then use a short name thereafter. It is ok to record batch number by including a photo of the bottle/tube.
 - *Strange observations* should be included, for example "a very hot day in lab and my experiment unexpectedly failed, maybe it's the temperature?"
 - Please add more examples?
 
@@ -136,6 +137,8 @@ If you processed or obtained data via a website (e.g. gene ontology analysis, RN
 Ending the filename with a data in standard format `yyyy-mm-dd` means that you can unambiguously link the data to the day it is collected.
 For example `Vlad-platereader-rbpmutants-replicate1-2021-04-15.xls` tells us that these are data from Vlad's plate reader experiment, on rbp mutants, replicate one, on the 15th April 2021.
 Then it is easy to reunite with Vlad's lab notebook from 15th April 2021.
+
+For more, see [Jenny Bryan's amazing presentation on naming things](https://speakerdeck.com/jennybc/how-to-name-files).
 
 You may come up with better ways to name and keep track of files.
 Remember the FAIR principles: organize the files so you can find them, access them, interoperate with other pieces of data, and generally reuse the data.
