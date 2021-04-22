@@ -28,8 +28,24 @@ HELP: HOW DO WE ORDER DRY ICE IF THEY DON'T?
 ## DeNovix / nanodrop
 
 To get data from the nanodrop to datastore / lab notebook, ...
+To move data from the nanodrop to datastore you can put the file onto a USB. From the Report or Graph screen data can be exported and saved to a FAT32 formatted USB drive. A pdf can also be generated and saved to a USB. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
 HELP
 
 ## Lab tablet computers
 
 HELP
+
+## Q-PCR Analysis
+
+On the computer connected to the QPCR machine the generated files are stored in:
+My documents > Program files> Roche> Light cycler 480> Bin
+The files you want to save are:
+1) Absquant/2nd derivative max. Export the .iox AND .txt files
+2) Ct values, fit points: Click and drag the mouse over the wells you have used in your plate to highlight them. Click on Calculate at the bottom.Export the .txt file.
+
+## Transformation fmol calculator
+
+This website can be used to calculate fmol concentrations for insert:vector for transformations.
+
+https://www.bioline.com/media/calculator/01_07.html
+
