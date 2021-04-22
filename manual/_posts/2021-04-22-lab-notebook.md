@@ -59,6 +59,8 @@ Good habits help.
 For example, you can set up templates for entries for standard experiments that you do.
 You can set aside regular time to update the notebook, including with other lab members to create some accountability.
 
+## Work should be FAIR: Findable, Accessible, Interoperable, and Reusable
+
 It is helpful to consider the [FAIR principles for scientific data management](https://www.go-fair.org/fair-principles/), which also apply to protocols, analysis, and methods.
 
 - *Findable:* The first step in (re)using data and protocols is to find them. Your lab notebook entries should be findable by "metadata", for example project, protocol, strain or oligo identifier, or date of creation.
@@ -67,7 +69,7 @@ It is helpful to consider the [FAIR principles for scientific data management](h
 - *Reusable:* The ultimate goal is to optimise the reuse of data, protocols, and methods. You and others should be able to reuse what you have done, to a high standard, and efficiently.
 
 
-## Examples of what to include and what not
+# Examples of what to include and what not
 
 Basically everything that is easy and/or important to include in your lab notebook should be in there.
 Information doesn't need to be repeated in multiple notebook entries, because you can hyperlink between entries; as a guide, everything directly relevant to the experiment should be findable (linked to, named, file location described, etc) within 5 minutes.
@@ -92,7 +94,7 @@ To inform the judgment call of what to include and what not:
 - Please add more examples?
 
 
-## Raw unedited data must be included
+# Raw unedited data must be included
 
 Raw unmodified data must be included or linked to, without exception. 
 Usually larger files will be kept on datastore and linked to, see the section on datastore organization in  [the manual page on where data belongs](where-data-belongs).
@@ -117,7 +119,7 @@ We have android tablets in the lab that you can use to log in to RSpace and depo
 If there are problems, or ideas to make it easier, talk to the rest of the lab.
 
 
-## Processed and summarized data must also be included
+# Processed and summarized data must also be included
 
 Yes, this means that most notebook entries will include both raw and processed data.
 This kind of near-repetition is ok.
@@ -132,7 +134,7 @@ Whenever possible, include or link to the script that processed the data.
 If you processed or obtained data via a website (e.g. gene ontology analysis, RNA folding, qPCR primer design), give enough information to be able to repeat it.
 
 
-## Give your files good names
+# Give your files good names
 
 Ending the filename with a data in standard format `yyyy-mm-dd` means that you can unambiguously link the data to the day it is collected.
 For example `Vlad-platereader-rbpmutants-replicate1-2021-04-15.xls` tells us that these are data from Vlad's plate reader experiment, on rbp mutants, replicate one, on the 15th April 2021.
@@ -165,15 +167,17 @@ Please ask Edward or Rosey for help on these issues.
 
 To be continued...
 
-## Have two tables of contents, one by date and one by project
+## Have two kinds of tables of contents, one by date and one by project
 
 We have found it seriously helpful to have one table of contents of activity by date, and another by project. That way you can search either by when it happened or by what it connects to, helping with the principle "Place your work in the context of larger goals and projects.". 
 
-The table of contents by date works best if you (needs template):
+The table of contents by date works best if you:
 - have a new entry for each calendar year e.g. called "Experiment Diary 2021".
 - format as a table including hyperlinks to the individual notebook entries, so you can click straight through.
 - have about one page per week in the lab, or more broken up if that's more helpful
 - update frequently (e.g. weekly) so it's not all backed up.
+
+We still need to make a template for this!
 
 It is also helpful to have a table of contents by project, or for each project
 - summarizing the overall aims of the project.
