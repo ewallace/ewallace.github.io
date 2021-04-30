@@ -49,7 +49,28 @@ This website can be used to calculate fmol concentrations for insert:vector for 
 
 https://www.bioline.com/media/calculator/01_07.html
 
+
 ## Fragment Analyzer Maintenance
 
-There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules. Maintenance of the Fragment Analyzer is the resposibility of all users. Please fill in the forms in the red folder when carrying out any maintenance tasks. These include changing buffers. If the forms are full new ones can be printed off from the wallace_rna data store under admin > Fa Maintenance schedule
+There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules. 
+Maintenance of the Fragment Analyzer is the responsibility of all users. 
+Please fill in the forms in the red folder when carrying out any maintenance tasks. 
+These include changing buffers. 
+If the forms are full new ones can be printed off from data store under `wallace_rna/admin/Fa Maintenance schedule`.
 
+
+## Tip for making glycerol stocks in bulk
+
+- start by using a sterile 24-well plate or 96-well plate
+-	If sterile plates are unavailable, you can perform UV sterilization using the UV Crosslinker next to the DeNovix/nanodrop.
+-	In a sterile environment, fill wells in the storage plate with 50 µL of sterile 30-50% glycerol. You can use the multichannel dispenser for efficiency.
+-	Transfer 50 µL of overnight culture to each well. Remember to accurately note down the well corresponding to each strain (have an excel sheet ready before preparing your stocks).
+-	Cover the plate with sterile adhesive film and mark it for easier orientation. Label your plate and note down its location in the -80 freezer. 
+-	Upon verification of strains, you can now streak out the small glycerol stocks to make proper 1ml stocks.
+-	When streaking out, use a scalpel to cut the covering only above the well you want to streak out to prevent contamination to other wells. Use new sterile pipette tips for this. 
+-	Once done, use new adhesive film to re-cover the opened well.
+
+## Sterilizing multiwell plates using UV Crosslinker
+
+HELP! 
+How do I use the UV Crosslinker? How long should I sterilize?
