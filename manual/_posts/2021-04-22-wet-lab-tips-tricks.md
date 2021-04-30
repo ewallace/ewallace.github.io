@@ -29,7 +29,7 @@ HELP: HOW DO WE ORDER DRY ICE IF THEY DON'T?
 
 To get data from the nanodrop to datastore / lab notebook, ...
 To move data from the nanodrop to datastore you can put the file onto a USB. From the Report or Graph screen data can be exported and saved to a FAT32 formatted USB drive. A pdf can also be generated and saved to a USB. On the Graphs page spectral graphs can be screen captured and the png file may be exported and saved to a USB drive.
-HELP
+
 
 ## Lab tablet computers
 
@@ -48,4 +48,8 @@ The files you want to save are:
 This website can be used to calculate fmol concentrations for insert:vector for transformations.
 
 https://www.bioline.com/media/calculator/01_07.html
+
+## Fragment Analyzer Maintenance
+
+There is a red folder next to the Fragment Analyzer in room 3.18 containing all the protocols and weekly/monthly maintenance schedules. Maintenance of the Fragment Analyzer is the resposibility of all users. Please fill in the forms in the red folder when carrying out any maintenance tasks. These include changing buffers. If the forms are full new ones can be printed off from the wallace_rna data store under admin > Fa Maintenance schedule
 
