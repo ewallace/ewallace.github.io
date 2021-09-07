@@ -153,6 +153,13 @@ Why bother with these guidelines and with writing notes?
 
 Project students should find these guidelines useful to make the most of their meetings with the PI and any co-supervisors, although the meetings may have a different frequency or format.
 
+## When they happen
+
+New in September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday
+
+We will try to schedule 1-1 meetings using the outlook calendar meeting invite service.
+Edward will attempt to make that calendar accurately reflect when he is and is not free.
+
 
 # Lab socials (whenever we feel like it)
 
