@@ -8,6 +8,9 @@ tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
+* TOC
+{:toc}
+
 # Why lab notebooks are important
 
 Good record-keeping is an essential part of good work:

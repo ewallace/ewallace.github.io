@@ -8,15 +8,14 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-
 # Meetings - *updated September 2021*
+{: .no_toc }
 
 This page covers basic expectations for meetings in the lab:
 
-* Lab meetings for everyone (weekly)
-* Journal club meetings (mostly fortnightly)
-* 1-1 meetings (fortnightly)
-* Socials (whenever we feel like it)
+* TOC
+{:toc}
+
 
 Meetings will be listed on the lab calendar. 
 Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in. 
@@ -24,6 +23,7 @@ We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
 For now, these meetings usually happen over zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
 When it's safe, hopefully soon, we hope to move back to in-person meetings.
+
 
 
 # Lab meetings for everyone (weekly)
@@ -153,9 +153,9 @@ Why bother with these guidelines and with writing notes?
 
 Project students should find these guidelines useful to make the most of their meetings with the PI and any co-supervisors, although the meetings may have a different frequency or format.
 
-## When they happen
+## 1-1 meeting timings
 
-New in September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
+New from September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
 
 We will try to schedule 1-1 meetings using the outlook calendar meeting invite service.
 Edward will work on making that calendar reflect when he is free and when he is busy.
