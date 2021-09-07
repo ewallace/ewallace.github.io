@@ -8,21 +8,22 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated April 2021*
+
+# Meetings - *updated September 2021*
 
 This page covers basic expectations for meetings in the lab:
 
 * Lab meetings for everyone (weekly)
-* Subgroup meetings (fortnightly)
+* Journal club meetings (mostly fortnightly)
 * 1-1 meetings (fortnightly)
 * Socials (whenever we feel like it)
 
-Meetings will be listed on the lab (google) calendar. 
+Meetings will be listed on the lab calendar. 
 Meetings won't take place over holidays or when they clash with other events, like conferences that multiple people in the lab are involved in. 
 We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 
 For now, these meetings usually happen over zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
-When it's safe, we hope to move back to in-person meetings.
+When it's safe, hopefully soon, we hope to move back to in-person meetings.
 
 
 # Lab meetings for everyone (weekly)
@@ -32,26 +33,28 @@ Lab meetings are a mutually respectful and supportive environment.
 
 Lab meetings can take various formats:
 
-* Research update, led by a single lab member - this is most common
+* Research update - led by a single lab member, is most common
 * One-slide meeting -  everyone presents one slide on their recent work
-* Journal club - one or more lab members present a relevant paper
 * Guest presentation from someone outside the lab
+* Journal clubs are now separate - one or more lab members lead discussion of a relevant paper
 * Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting
 
 Whatever the format, the goal of lab meeting is for everyone in the room, including the presenter, to learn things that are useful to their work.
 
 
-## Timing - *updated April 2021*
+## Timing - *updated September 2021*
 
-Lab meetings are **15:30-17:00 Mondays** over zoom.
+Lab meetings are **10:30-12:00 Mondays** over zoom.
 
-* 15:00 meeting opens, drift in with coffee/tea, chat and discuss lab business
-* 15:30 prompt, presentation starts
-* 16:45 latest, show the last slide
+* 10:00 meeting opens, drift in with coffee/tea, chat and discuss lab business
+* 10:30 prompt, presentation starts
+* 11:45 latest, show the last slide
 * Discuss any other lab business
-* 17:00, everyone should leave
+* 12:00, everyone should leave (reminder that ICMB Monday seminars are usually at this time)
 
-We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to be working well.
+We previously tried to keep lab meetings to 1 hour, but they ended up closer to 1 and a half. The new timetable seems to work well as long as we are disciplined about starting on time.
+
+PI is trying to book a meeting room (Sep 2021).
 
 
 ## Giving a Research update lab meeting
@@ -98,29 +101,35 @@ Some resources on giving good presentations and lab meetings:
 * [How to survive and excel in lab meetings](https://sophtalksscience.com/2017/10/30/how-to-survive-your-first-lab-meeting/)
 
 
-# Subgroup meetings (fortnightly)
+# Journal club meetings (about fortnightly)
 
-Since January 2021, we are having regular "subgroup meetings" to help people working on related projects to talk regularly about them.
+From September 2021, we are going to try more regular dedicated journal clubs.
+We will try these on Thursdays at 11am "opposite" to the SynthSys OCM Thursdays.
+Same lab meeting link, also listed on the lab calendar.
 
-Mostly, we have been running these as a journal club:
+Roughly they work like:
 
-* We choose a paper relevant to the subgroup, that everyone should read before the meeting. Come prepared to talk about what you learned from the paper and any questions you have.
-* Presentation of the is usually led by one person, and/or can be shared around the group. We don't need perfect presentations, just enough for a good discussion.
-* The presenter can showcase their own data/project or other related information in the light of the main journal club paper. These have been some of the most useful subgroup meeting moments.
+* We choose a relevant paper, that everyone should read before the meeting. Come prepared to talk about what you learned from the paper and any questions you have.
+* The paper can be old, new, or a preprint. The big criteria for choice is that it has to be valuable for us to discuss as a group. Maybe it's the ideas, maybe the methods, maybe the subject matter.
+* Discussion is usually led by one person, and/or can be shared around the group. We don't need perfect presentations, just some structure for a good discussion.
+* It is usually helpful to start with some context about why the paper was written and why you chose the paper / why it's relevant to us.
+* The leader is encouraged to showcase their own data/project or other related information in the light of the main journal club paper. These have been some of the most useful journal club moments.
 * Everyone suggests papers for next subgroup meeting, and we decide on one of them. It is ok to suggest a paper that you have already read.
-* PI aims to attend all subgroup meetings, however they should continue even if PI can't attend.
-* Others in lab can attend subgroups as "guests" if they're interested in the paper.
+* PI aims to attend all journal clubs, however it's fine for them to continue even if PI can't attend.
 
-Sometimes we may instead have a different format, for example discussing a manuscript draft or designing a tricky experiment. We aim to announce the subgroup agenda 2 weeks in advance in any case.
 
-Subgroups (April 2021) are:
+### Subgroup meetings are no longer happening
+
+From January to June 2021 we tried journal clubs in themed subgroups:
 
 * RNA-binding proteins, Ssd1 and so on - Rosey, Marah, Louis, also Paddy and Yuxuan. 10am alternate Mondays (weeks 1+3 in lab rota).
 * 3'UTRs - Sam, Weronika. 10am alternate Tuesdays (weeks 1+3 in lab rota).
 * Fungal pathogens - Laura, Liz, Rachael. 10am alternate Mondays (weeks 2+4 in lab rota)
 * Ribosome profiling has a separate meeting on Wednesday afternoons, see [bbsrc-nsf repository](https://github.com/riboviz/bbsrc-nsf).
 
-We will find times for these that work for all subgroup members, respecting lab shift patterns.
+There was a lot of learning that happened, despite the large time commitment and stress of working from home and/or shift system.
+
+Sometimes we tried a different format, for example discussing a manuscript draft or designing a tricky experiment. We aim to announce the subgroup agenda 2 weeks in advance in any case.
 
 
 # 1-1 meetings (fortnightly)
@@ -152,5 +161,4 @@ Guidelines:
 * Organize a lab social when you feel like it. 
 * Be inclusive. 
 
-We also have a semi-regular lab coffee 10:30am Fridays.
-Zoom link is on the lab calendar.
+We also have an irregular lab coffee 10:30am Fridays.
