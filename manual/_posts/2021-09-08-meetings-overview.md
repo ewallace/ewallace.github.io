@@ -155,10 +155,10 @@ Project students should find these guidelines useful to make the most of their m
 
 ## When they happen
 
-New in September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday
+New in September 2021, Edward would like to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
 
 We will try to schedule 1-1 meetings using the outlook calendar meeting invite service.
-Edward will attempt to make that calendar accurately reflect when he is and is not free.
+Edward will work on making that calendar reflect when he is free and when he is busy.
 
 
 # Lab socials (whenever we feel like it)
