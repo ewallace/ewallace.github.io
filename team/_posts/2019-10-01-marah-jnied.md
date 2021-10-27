@@ -9,7 +9,7 @@ twitter:
 github: 
 ORCID: 
 scholar: 
-image: /assets/images/team/marah_jn.png
+image: /assets/images/team/marah_jn.jpg
 alum: false
 ---
 
