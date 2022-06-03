@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Domenico Modaffari"
-position: PhD
+position: PhD Student
 nickname: 
 handle: 
 email: domenico.modaffari@ed.ac.uk
