@@ -9,7 +9,7 @@ twitter:
 github:
 ORCID: 0000-0003-4317-0328
 scholar: 
-image: /assets/images/team/domenico-modaffari-2022.jpg
+image: /assets/images/team/default-member.png
 alum: false
 ---
 
