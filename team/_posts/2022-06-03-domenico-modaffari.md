@@ -2,7 +2,7 @@
 layout: member
 title: "Domenico Modaffari"
 position: PhD
-nickname: Sam
+nickname: 
 handle: 
 email: domenico.modaffari@ed.ac.uk
 twitter: 
