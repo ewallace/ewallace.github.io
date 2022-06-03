@@ -14,7 +14,7 @@ alum: false
 ---
 
 
-Domenico Modaffari is a PhD student working on the role of local translation during the hyphal growth of filamentous fungi. He is a joint student with [Ken Sawin](https://sawin.bio.ed.ac.uk) at the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk) and is funded by the [Wellcome Integrative Cell Mechanisms programme](https://www.wcb.ed.ac.uk/iCMPhD).
+Domenico Modaffari is a PhD student working on the role of local translation during hyphal growth in filamentous fungi. He is a joint student with [Ken Sawin](https://sawin.bio.ed.ac.uk) at the [Wellcome Centre for Cell Biology](https://www.wcb.ed.ac.uk) and is funded by the [Wellcome Integrative Cell Mechanisms programme](https://www.wcb.ed.ac.uk/iCMPhD).
 
 Domenico completed a BSc in Molecular Genetics at King's College London, and spent a year at the University of California, Berkeley during the course of the degree.
  
