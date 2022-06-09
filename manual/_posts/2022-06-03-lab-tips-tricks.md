@@ -169,7 +169,18 @@ Wallace lab code is 2248, and the lab address as the invoice address.
 Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
 Please use our spend-down account that currently costs £3.50 per sequencing reaction.
 
-HELP! HOW DO I SHIP SAMPLES?!?
+To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and pop into a plastic bag (the bags that PCR tube strips come in are perfect for this). Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples. Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
+
+DNA Sequencing and Services
+Medical Sciences Institute
+School of Life Sciences
+University of Dundee
+Dundee
+DD1 5EH
+UK
+
+You can then just pop the envelope in the Mail Out box in Swann foyer.
+
 
 We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to 
 
