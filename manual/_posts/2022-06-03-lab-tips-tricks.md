@@ -145,6 +145,8 @@ Please fill in the forms in the red folder when carrying out any maintenance tas
 These include changing buffers. 
 If the forms are full new ones can be printed off from data store under `wallace_rna/admin/Fa Maintenance schedule`.
 
+Any questions, ask Liz Hughes.
+
 
 ## Tip for making glycerol stocks in bulk
 
@@ -162,6 +164,7 @@ If the forms are full new ones can be printed off from data store under `wallace
 HELP! 
 How do I use the UV Crosslinker? How long should I sterilize?
 
+
 ## Sanger Sequencing with MRC PPU Dundee
 
 We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
@@ -169,8 +172,11 @@ Wallace lab code is 2248, and the lab address as the invoice address.
 Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
 Please use our spend-down account that currently costs £3.50 per sequencing reaction.
 
-To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and pop into a plastic bag (the bags that PCR tube strips come in are perfect for this). Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples. Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
+To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes, seal tubes with parafilm and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
+Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
+Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to: 
 
+```
 DNA Sequencing and Services
 Medical Sciences Institute
 School of Life Sciences
@@ -178,11 +184,13 @@ University of Dundee
 Dundee
 DD1 5EH
 UK
+```
 
-You can then just pop the envelope in the Mail Out box in Swann foyer.
+You can then just put the envelope in the Mail Out box in Swann foyer.
 
 
-We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to 
+We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to do more whole-plasmid sequencing and less Sanger sequencing of segments, from now on.
+
 
 ## Whole-plasmid sequencing with Plasmidsaurus
 
@@ -191,6 +199,7 @@ New June 2022, there is Plasmidsaurus dropbox at Chancellor's Building, Little F
 You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/), including ordering/payment information (HELP).
 
 Collection is just once a month at the moment. The first Thursday of every month at 9am. First collection is 7th of July 2022. If there is enough initial use (which seems likely), frequency will go up to weekly or bi-weekly.
+
 
 ## High-throughput sequencing at WTCRF genetics core
 
