@@ -8,8 +8,6 @@ tags: [labmanual, wetlab]
 ---
 {% include JB/setup %}
 
-* TOC
-{:toc}
 
 # Lab tips and tricks
 
@@ -21,6 +19,10 @@ This is a page for the random tips and tricks, such as
 - logistics such as buying things
 
 Remember, this is going to be on a public website, so no passwords or personal info.
+
+* TOC
+{:toc}
+
 
 ## Ordering outside of Sciquest
 
