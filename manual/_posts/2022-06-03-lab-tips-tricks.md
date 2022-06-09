@@ -161,3 +161,27 @@ If the forms are full new ones can be printed off from data store under `wallace
 
 HELP! 
 How do I use the UV Crosslinker? How long should I sterilize?
+
+## Sanger Sequencing with MRC PPU Dundee
+
+We use [MRC PPU in Dundee](https://dnaseq.co.uk) for routine Sanger sequencing of plasmid segments and PCR products.
+Wallace lab code is 2248, and the lab address as the invoice address.
+Sign up for an account on https://dnaseq.co.uk and ask to be added to the lab list.
+Please use our spend-down account that currently costs £3.50 per sequencing reaction.
+
+HELP! HOW DO I SHIP SAMPLES?!?
+
+We are about to trial whole-plasmid sequencing with Plasmidsaurus (see below) so we expect to 
+
+## Whole-plasmid sequencing with Plasmidsaurus
+
+New June 2022, there is Plasmidsaurus dropbox at Chancellor's Building, Little France. Plasmidsaurus (https://www.plasmidsaurus.com) offer whole-plasmid sequencing at $15 / sample, see their website for details.
+
+You can drop samples in the box directly, or via internal mail. To send by internal mail. Put your sample packet/envelope in an internal mail envelope marked "Chancellor's Building Reception, Plasmidsaurus Dropbox, Bioquarter/Little France" Prepare samples according to [plasmidsaurus guidelines](https://www.plasmidsaurus.com/instructions/), including ordering/payment information (HELP).
+
+Collection is just once a month at the moment. The first Thursday of every month at 9am. First collection is 7th of July 2022. If there is enough initial use (which seems likely), frequency will go up to weekly or bi-weekly.
+
+## High-throughput sequencing at WTCRF genetics core
+
+Currently we do all our high-throughput sequencing (RNA-seq, library prep, self-prepared libraries, Illumina) at the [WTCRF genetics core](https://www.ed.ac.uk/clinical-research-facility/core-services/genetics), which is at Western General Hospital campus just across town.
+Discuss your experimental goals and design with Edward first and we will then contact the genetics core team.
