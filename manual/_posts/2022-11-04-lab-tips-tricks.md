@@ -89,7 +89,8 @@ School of Biological Sciences
 G27 Roger Land Building  
 Alexander Crum Brown Road  
 Edinburgh  
-EH9 3FF  
+EH9 3FF
+Tel: (+44) 0131 650 5337
 
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
