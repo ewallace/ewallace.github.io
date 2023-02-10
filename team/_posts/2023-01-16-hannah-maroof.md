@@ -6,7 +6,7 @@ nickname:
 handle: 
 email: s1818249@ed.ac.uk
 twitter: 
-github: davbunn1
+github: HannahMaroof
 ORCID: 
 scholar: 
 image: /assets/images/team/Hannah_Maroof.jpeg
