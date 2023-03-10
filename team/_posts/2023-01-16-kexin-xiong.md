@@ -9,7 +9,7 @@ twitter:
 github: Kexin-Xiong
 ORCID: 
 scholar: 
-image: /assets/images/team/Kexin-Xiong.jpg
+image: /assets/images/team/Kexin-Xiong.jpeg
 alum: false
 ---
 
