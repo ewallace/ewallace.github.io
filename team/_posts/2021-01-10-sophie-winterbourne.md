@@ -1,21 +1,19 @@
 ---
 layout: member
 title: "Sophie Winterbourne"
-position: Undergraduate and RA
+position: PhD student
 nickname: Sophie
 handle: 
 email: s1767247@sms.ed.ac.uk
 twitter: 
 github: swinterbourne
-ORCID: 
+ORCID: 0000-0001-9109-285X
 scholar: 
 image: /assets/images/team/2021-01-18-sophie-winterbourne-pic.jpg
 alum: true
 ---
 
-Sophie Winterbourne completed her undergraduate project with RiboViz in 2021. 
-Her Honours project focused on studying inhibitory features of translation in _Saccharomyces cerevisiae_ using the open-source software package 'riboviz'.
-Sophie worked in The Wallace lab as a Research Assistant in Bioinformatics over summer 2021, where she helped improve documentation and provided new functionality.
+Sophie is studying a family of pseudoenzymatic double-stranded RNA binding proteins defined by a domain-associated with zinc fingers, using a combination of computational and experimental approaches.
+She is jointly supervised by Prof Atlanta Cook and funded by the [EASTBIO Doctoral Training Partnership](http://www.eastscotbiodtp.ac.uk/). 
 
-Sophie is currently an MSc Bioinformatics student at the University of Edinburgh.
-She would like to continue her studies within the field of translation and post-transcriptional regulation.
+She completed a BSc Hons in Biological Sciences (Biotechnology) with her Honours project in the Wallace Lab working with the open-source software package 'riboviz' in 2021. Sophie continued in the Wallace Lab as a Research Assistant in Bioinformatics over the summer before completing an MSc in Bioinformatics at the University of Edinburgh.
