@@ -47,9 +47,9 @@ Here is [School of Biological Sciences People and Money Help Site](https://uoe.s
 
 ## Get the address, VAT, and intended use right for orders
 
-Make sure orders get to Roger Land Stores. 
+Make sure orders get to School of Physics Stores. 
 For delivery address on the requisition in P&M you HAVE to put in:
-**School of Biological Sciences - Roger Land Building Stores**.
+**School of Physics Stores - James CLerk Maxwell Building**.
 or else I am told that "all hell will rain down on to you" - I think hell rains down mostly in the form of emails, also, the order will not arrive.
 
 Also, to place an order successfully you have to....
@@ -119,20 +119,21 @@ The procedure is basically the same if you are sending or receiving.
   - include paperwork inside describing the contents
   - address it including the recipent's address on the front of the package, our address on the back of the package, both with contact phone numbers
   - seal the package
-  - take package to Roger Land stores during working hours
+  - take package to Physics stores during working hours
   - ask for a tracking number and email that to the recipient, along with a description of the contents
 
 
 For reagent requests from other labs (non-PO so non-P&M) use the address:
 
 Edward Wallace lab  
-c/o Roger Land Stores
-University of Edinburgh  
-School of Biological Sciences  
-G27 Roger Land Building  
-Alexander Crum Brown Road  
-Edinburgh  
-EH9 3FF  
+c/o School of Physics Stores
+James Clerk Maxwell Building
+Kings Buildings
+Peter Guthrie Tait Road
+EDINBURGH
+Midlothian
+EH9 3FD
+UNITED KINGDOM
 
 This ensures the item is delivered to the right Stores and which is helpful for deliveries outside of core hours or to prevent it from going to engineering stores or anywhere else.
 
@@ -196,7 +197,7 @@ Please use our spend-down account that currently costs £3.50 per sequencing rea
 
 To ship samples, simply prepare as per instructions on the website in 1.5 ml Eppendorf tubes and put into a plastic bag (the bags that PCR tube strips come in are perfect for this).
 Either print off the sample label OR write down the Order Reference (will be in the format yourusername-dd-mm-yyyy-xxx) and add this to the bag with the samples.
-Put the bag in a brown envelope (we can get these from Roger Land stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
+Put the bag in a brown envelope (we can get these from Physics stores and there's currently a small stash in the filing cabinet in the printer room) and address it to:
 
 ```
 DNA Sequencing and Services
