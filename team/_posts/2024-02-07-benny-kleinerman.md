@@ -7,7 +7,7 @@ handle: bk
 email: B.Kleinerman@sms.ed.ac.uk
 github: brkleinerman
 ORCID: 0009-0000-3484-8745
-image: /assets/images/team/default-member.png
+image: /assets/images/team/benny-kleinerman-2023.jpg
 alum: false
 ---
 
