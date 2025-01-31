@@ -19,4 +19,4 @@ Measuring differential gene expression under different conditions provides a sna
 Relating this to crucial virulence factors, such as capsule production, we can then formulate a hypothesis on the adaptive response/responses required for this accidental human pathogen to survive.
 Liz discovered a major role for the virulence-related transcription factor, Gat201, in controlling Cryptococcus growth.
 
-Liz is moving on to a postdoctoral position with [Takashi Kubota at the University of Aberdeen](https://www.abdn.ac.uk/ims/research/profiles/t.kubota).
+Liz moved on to a postdoctoral position with [Takashi Kubota at the University of Aberdeen](https://www.abdn.ac.uk/ims/research/profiles/t.kubota).

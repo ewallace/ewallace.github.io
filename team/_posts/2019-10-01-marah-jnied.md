@@ -10,10 +10,12 @@ github:
 ORCID: 
 scholar: 
 image: /assets/images/team/marah_jn.jpg
-alum: false
+alum: true
 ---
 
-Marah Jnied is a PhD student funded by the Darwin Trust of Edinburgh.
-She graduated with a BSc (Hons.) in Pharmacy and Health Sciences in 2016 at Ajman University, and an MSc in Microbiology at the University of Aberdeen in 2018. She is currently pursuing her PhD at the University of Edinburgh by working in the Wallace Lab on characterising the role of the conserved RNA-binding virulence factor Ssd1 in localisation of its target mRNAs and their protein products. 
+Marah Jnied was a PhD student funded by the Darwin Trust of Edinburgh from 2019-2024, in the Wallace Lab. 
+Her PhD focused on characterising the role of the fungal RNA-binding protein Ssd1 in localisation of its target mRNAs and their protein products. 
 
+She previously graduated with a BSc (Hons.) in Pharmacy and Health Sciences in 2016 at Ajman University, and an MSc in Microbiology at the University of Aberdeen in 2018. 
 
+After graduating in 2024, Marah continued to a postdoctoral position in the lab of Sveta Makovets, also in Edinburgh.

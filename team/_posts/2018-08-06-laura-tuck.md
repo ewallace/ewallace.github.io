@@ -19,3 +19,5 @@ Laura's main project was building a _Cryptococcus neoformans_ reporter gene tool
 
 Laura contributed to several other projects in the lab. 
 Laura was funded by the Wellcome Trust and by the [Wellcome Trust's ISSF3 award](https://www.ed.ac.uk/medicine-vet-medicine/research-support-development-commercialisation/issf).
+
+Laura moved on to another postdoctoral position, working on viruses in the lab of [Eleanor Gaunt](https://edwebprofiles.ed.ac.uk/profile/eleanor-gaunt) at the Roslin Institute.
