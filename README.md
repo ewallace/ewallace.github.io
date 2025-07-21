@@ -9,7 +9,7 @@ This repository encodes the [lab website](https://ewallace.github.io/) with gith
 
 - See links (funders/collaborators) from home page, not just "About"
 - Add funder logos on main page
-- Make protocols point to the github protocols repository
+- Make protocols point to the github protocols repository?
 
 Also see Issues on [the github page](https://github.com/ewallace/ewallace.github.io).
 
@@ -29,7 +29,7 @@ Also see Issues on [the github page](https://github.com/ewallace/ewallace.github
   - [install jekyll first](https://jekyllrb.com/docs/installation/)
   - fix any errors or broken links and commit fixes.
 7. Push changes to your fork with `git push feature-name`.
-8. Make a [pull request](https://help.github.com/en/articles/about-pull-requests) into the *staging* branch. Someone, probably Edward, will review the pull request and incorporate it into the website.
+8. Make a [pull request](https://help.github.com/en/articles/about-pull-requests) into the `master` branch. Edward, will review the pull request and incorporate it into the website.
 
 Most of these steps can also be done via the website of your github fork, avoiding the command-line clone and push steps. I don't know how to preview the website edits this way, though.
 
@@ -37,7 +37,9 @@ Most of these steps can also be done via the website of your github fork, avoidi
 
 ## Updating the public site
 
-All edits should be made on the `staging` branch.
+All edits should be made in a branch and then pull-request to the `master` branch.
+
+*Previously we tried to keep a separate `staging` branch, but that proved unworkable so we basically just use `master` now.*
 
 
 ## License
