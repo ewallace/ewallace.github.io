@@ -14,7 +14,7 @@ image: /assets/images/team/Lloyd-Morgan-2025.jpg
 alum: true
 ---
 
-Lloyd earned an MSc in Synthetic Biology and Biotechnology from the University of Edinburgh and joined the Wallace Lab from May to August 2025.
+As part of his MSc in Synthetic Biology and Biotechnology at the University of Edinburgh, Lloyd worked in the Wallace Lab from May to August 2025
 
 He completed a research dissertation titled *“Dissecting the Dual Functions of Ssd1 in Cryptococcus neoformans: Post-Transcriptional Control of Growth and Stress Response,”* contributing to Benny Kleinerman’s PhD research.
 
