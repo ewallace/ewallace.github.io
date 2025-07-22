@@ -1,7 +1,7 @@
 ---
 layout: member
 title: "Lloyd Morgan"
-position: MSc Student
+position: Postgraduate
 nickname: :Lloyd
 handle: LM
 email: L.J.Morgan-3@sms.ed.ac.uk
