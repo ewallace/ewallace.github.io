@@ -9,7 +9,7 @@ volume:
 issue:
 pages: 
 authors: "Sones-Dykes T, Wallace EWJ"
-image: /assets/images/papers/secretion_pathways_EW_2024-06-18_schematiconly.png
+image: /assets/images/papers/secretion_pathways_schematic.svg
 redirect_from: 
 fulltext: https://doi.org/10.1101/2025.07.30.667231
 pdflink: https://www.biorxiv.org/content/10.1101/2025.07.30.667231v1.full.pdf+html
