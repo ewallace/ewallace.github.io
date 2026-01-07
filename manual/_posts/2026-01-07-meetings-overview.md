@@ -8,7 +8,7 @@ tags: [labmanual, meetings, newstart]
 ---
 {% include JB/setup %}
 
-# Meetings - *updated September 2023*
+# Meetings - *updated January 2026*
 {: .no_toc 3
 
 This page covers basic expectations for meetings in the lab:
@@ -24,6 +24,8 @@ We sometimes take "weeks off" meetings, to give everyone a much-needed break.
 Meetings are in person where preferable, although it is usually possible to join by zoom, using the same [lab meeting link](https://ed-ac-uk.zoom.us/j/87317539855). Check the lab calendar or slack for the password.
 Please give enough notice (2 hours) if you will join a meeting by zoom, so that someone can set it up.
 
+*Note Jan 2026 - the university is stopping paying zoom sometime soon so presumably we will have to move online meetings to microsoft teams.*
+
 
 # Lab meetings for everyone (weekly)
 
@@ -35,14 +37,14 @@ The goal of lab meeting is for everyone in the room, including the presenter(s),
 
 Lab meetings can include various formats:
 
-* Research update - led by a single lab member, is most common
-* One-slide meeting -  everyone presents one slide on their recent work
+* One-slide meeting -  everyone presents one slide on their recent work, is most common
+* Research update - led by a single lab member
 * Standup style - everyone updates with one thing they have done or learned recently, one goal for the next week, one thing they need help on, in at most 5 minutes each. See [manual page on standup](/manual/standup)
 * Guest presentation from someone outside the lab
 * Journal clubs - one or more lab members lead discussion of a relevant paper
 * Other - for example, a "welcome back" meeting, a "write some of the lab manual" meeting, a "state of the lab" annual-ish meeting, 
 
-We are trying a new experiment in autumn 2023 of combining a round table somewhere between 1-slide and standup style, then a main presentation.
+We have tried various experiments depending on how big the lab is, what people need, where projects are at. The important thing is to keep conversations and learning going.
 
 Currently Edward is organising the lab meeting schedule.
 The lab meeting schedule is updated on the lab outlook calendar, and discussed every so often on slack or in-person at lab meetings.
@@ -51,9 +53,24 @@ Please give at least a week's notice of any changes to the schedule, as it is mu
 
 ## Timing
 
-Lab meetings are **15:00-17:00 Thursdays** in Waddington 1.07 (through summer 2024).
+Lab meetings are **13:30-15:00 Wednesdays** in Waddington 1.07 (through summer 2026).
 
 The aim for timing is:
+
+* 13:15 someone hopefully volunteers to make coffee?
+* 13:30 prompt, start of lab meeting
+* 15:00, everyone should leave
+
+
+<details>
+
+<summary>Alternative experiments in lab meetings</summary>
+
+### A previous timing for lab meetings
+
+For a while (2023-2024), we combined a round table somewhere between 1-slide and standup style, then a main presentation. Lab meetings then were Thursdays 15:00 - 17:00.
+
+The aim for timing was:
 
 * 14:45 someone hopefully volunteers to make coffee?
 * 15:00 prompt, start of round table with 5 minutes each
@@ -62,8 +79,10 @@ The aim for timing is:
 * 16:45 latest, show the last slide
 * 17:00, everyone should leave
 
-We will try this for at least the month of October 2023 and evaluate how it goes.
-We will have to be disciplined about timing given that we are trying to fit in more parts.
+
+We had to be disciplined about timing given that we were trying to fit in more parts.
+
+</details>
 
 
 ## Giving a Research update presentation
@@ -125,6 +144,8 @@ In brief, everyone presents one slide on their recent work. Guidelines:
 * We don’t care how much you have done (everyone knows you have done a lot) - we all want 5 minutes of interesting scientific discussion.
 * Because the group is big, we will be keeping strictly to time and cutting off after 5 minutes. With a 1-minute warning.
 * Any questions, ask around.
+
+We found one-slide meetings work well when the group is bigger. More recently we've found "few slide" meetings good where multiple people can present. Here It's encouraged to start with one or more slides of context before one or more slides of data. Your context could include the question you're asking and a sketch of the experimental/compuational design to ask that questions.
  
 Claus Wilke’s blogpost, [share your preliminary work with other people](https://serialmentor.com/blog/2014/7/8/share-your-preliminary-work-with-other-people-even-if-you-think-its-crap), gives an eloquent perspective.
 
@@ -187,7 +208,7 @@ Project students should find these guidelines useful to make the most of their m
 
 ## 1-1 meeting timings
 
-Edward prefers to keep 1-1 meetings on Monday/Wednesday/Thursdays to keep Tuesdays and Friday free for extended thinking / experiments / etc.
+Edward prefers to keep 1-1 meetings on Wednesday/Thursdays/Fridays to keep Mondays and Tuesdays free for extended thinking / experiments / etc. (updated for early 2026 - more effort for Edward to be in lab Mon/Tues)
 
 We will try to schedule 1-1 meetings using the outlook calendar meeting invite service.
 Edward works to make that calendar reflect when he is free and when he is busy.
@@ -200,4 +221,7 @@ Guidelines:
 * Organize a lab social when you feel like it. 
 * Be inclusive. 
 
-We also have an very irregular lab coffee 10:30am Fridays.
+At times we've had irregular lab coffee 10:30am Fridays.
+It might be nice to reinstate a lab coffee?
+Or lunch before Monday 12 noon seminars?
+To be discussed.
