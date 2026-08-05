@@ -1,6 +1,6 @@
 ---
 layout: member
-title: “Ginevra Camboni”
+title: Ginevra Camboni
 position: PDRA
 nickname: Ginevra
 handle:
@@ -8,7 +8,7 @@ email: gcamboni@ed.ac.uk
 github: ginevraC
 ORCID: 0000-0003-1663-5484
 scholar:
-image: /assets/images/team/GinevraCamboni2026.jpg
+image: /assets/images/team/GinevraCamboni2026.png
 alum: false
 ---
 
