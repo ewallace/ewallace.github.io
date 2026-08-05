@@ -7,7 +7,7 @@ handle:
 email: gcamboni@ed.ac.uk
 github: ginevraC
 ORCID: 0000-0003-1663-5484
-scholar: [Ginevra.Camboni](https://scholar.google.com/citations?user=AGyhs9AAAAAJ&hl=en&authuser=1)
+scholar:
 image: /assets/images/team/GinevraCamboni2026.jpg
 alum: false
 ---
