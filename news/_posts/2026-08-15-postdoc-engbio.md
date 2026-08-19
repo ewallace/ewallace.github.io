@@ -20,6 +20,11 @@ This would be a good opportunity for an engineering biologist to move into funga
 
 The successful candidate will be part of an interdisciplinary, intercontinental team that aims to develop and democratise the study and imaging of fungal pathogens through a newly funded long-term programme, entitled ‘Removing Barriers to Fungal Bioimaging for the Global Medical Mycology Community’. See [press release from Edinburgh Infectious Diseases](https://edinburgh-infectious-diseases.ed.ac.uk/news/latest-news/ps45-million-to-tackle-deadly-fungal-disease).
 
+The job will be in the [Wallace lab](https://ewallace.github.io/) in Edinburgh's [School of Biological Sciences](https://biology.ed.ac.uk).
+We are affiliated with the excellent [Centre for Engineering Biology](https://biology.ed.ac.uk/centre-engineering-biology), and [Edinburgh Infectious Diseases](https://edinburgh-infectious-diseases.ed.ac.uk/about-us).
+The research programme is in association with the University of Cape Town, and the University of Exeter's [MRC Centre for Medical Mycology](https://www.exeter.ac.uk/research/medicalmycology/), one of the world's leading centres for studying fungal pathogens.
+
+
 The job advert and application site is found on [the University of Edinburgh's job site, see link](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/14728).
 Also [direct link to full job description](https://uoe.sharepoint.com/:w:/s/jobdescriptionlibrary/IQDHKxwtiRsNSZJoHHzdTf3ZAYQ4chJFopYSLg4cIoOs-t4?rtime=dg4MHdH93kg).
 We expect applications to close 30 September and interviews to take place in October 2026.
