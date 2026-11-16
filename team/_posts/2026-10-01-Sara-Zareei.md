@@ -7,7 +7,7 @@ handle:
 email: s.zareei@sms.ed.ac.uk
 github: SaraZareei
 ORCID: 0000-0002-5206-3105
-scholar: [https://scholar.google.com/citations?user=oFAeVnAAAAAJ&hl=en](https://scholar.google.com/citations?user=oFAeVnAAAAAJ&hl=en&oi=ao)
+scholar: https://scholar.google.com/citations?user=oFAeVnAAAAAJ&hl=en&oi=ao
 image: /assets/images/team/Sara_Zareei.jpg
 alum: false
 ---
